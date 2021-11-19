@@ -1,13 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-
+import ger from "./components/ger";
 function App() {
   return (
-    <div className="App">
-     hello me world mmmmmmmmmmmmmmmddddddmmmvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvsss
-    </div>
+    <ger/>
   );
 }
 
 export default App;
-0

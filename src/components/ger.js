@@ -8,4 +8,4 @@ const ger = () => {
     )
 }
 
-export default ger
+export default ger;
