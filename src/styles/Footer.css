@@ -1,0 +1,42 @@
+.footer{
+    position: absolute;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    width: 98.3%;
+    margin: 0 auto;
+    top: 625px;
+    border: 1px solid rgb(168, 159, 159);
+    height: 140px;
+    background-color: #000;
+}
+.footer .social svg{
+    position:static;
+    cursor: pointer;
+    color: white;
+    font-size: 70px;
+    margin: 20px;
+    justify-content: center;
+}
+.footer p{
+    color: whitesmoke;
+    text-align: center;
+    font-style: bold;
+}
+.footer ul{
+    position: absolute;
+    margin: 3px;
+    top: 30px;
+    margin-left: 500px;
+    font-size: 20px;
+    cursor: pointer;
+    font-style: bold;
+}
+.footer li{
+    display:flex;
+    margin: 10px;
+    color: white;
+}
+.footer li a{
+    text-decoration: none;
+}
