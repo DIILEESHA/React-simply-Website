@@ -1,11 +1,11 @@
 import React from 'react'
 
-const ger = () => {
+const Home = () => {
     return (
         <div>
-            getter
+            Home page!
         </div>
     )
 }
 
-export default ger;
+export default Home
