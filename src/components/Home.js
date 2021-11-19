@@ -14,7 +14,7 @@ const Home = () => {
         <h1>Car Seller</h1>
         <p>Get in your car in your life by own site</p>
         <Link to='/menu'>
-        <button><b><i>Buy now!</i></b></button>
+        <button>Buy now!</button>
         </Link>
         </div>
       </div>
